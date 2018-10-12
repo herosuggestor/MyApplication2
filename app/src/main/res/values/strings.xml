@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="find_suggestions">find suggestions</string>
+    <string name="hero1">hero1</string>
+    <string name="hero2">hero2</string>
+    <string name="hero3">hero3</string>
+    <string name="hero4">hero4</string>
+    <string name="hero5">hero5</string>
+</resources>
